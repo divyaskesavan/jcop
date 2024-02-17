@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class Main {
 
   public static void main(String[] args) {
-    Scanner input = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
     System.out.println("Enter a number: ");
-    int number = input.nextInt();
+    int number = sc.nextInt();
     int evenSum = 0;
     int oddSum = 0;
 
