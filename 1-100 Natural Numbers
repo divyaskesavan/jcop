@@ -6,3 +6,6 @@ public class NaturalNumbers {
             } else {
                 System.out.println(n);
             }
+        }
+    }
+}
